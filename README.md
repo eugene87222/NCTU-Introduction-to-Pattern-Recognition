@@ -9,5 +9,5 @@
 ## Assignment 4
 
 ## Assignment 5
-- train DNN on Cifar-10
+- train DNN with Cifar-10
 - npy???? link
